@@ -82,5 +82,5 @@ It enables management to quickly identify areas of revenue gain or loss and supp
 ---
 
 ## **🖼 live Dashboard**
-![Revenue Insights in Hospitality Domain](https://tinyurl.com/2pbby3ev)  
+[Revenue Insights in Hospitality Domain](https://tinyurl.com/2pbby3ev)  
 
